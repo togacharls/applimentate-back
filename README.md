@@ -25,13 +25,13 @@ There is no problem if you use _Windows, Linux_ or _MacOS_.
 All you need to run _Applimentate_ is open a command promp, go to the _Applimentate_ _Webservices_ path and...
 * If it is the first time you are going to build the project or if you want to rebuild it:
 ```
-gradlew build
+gradle build
 ```
-* Run the _Ionic_ server:
+* Serve the application:
 ```
-gradlew run
+gradle run
 ```
-This command will open your default web browser running __Applimentate__ __Webservices__.
+If you open your web browser (or another application and access to consume web services) and go to _localhost:8080_, you will see __Applimentate__ __Webservices__ running.
 
 
 Thanks for reading me. :grin:
